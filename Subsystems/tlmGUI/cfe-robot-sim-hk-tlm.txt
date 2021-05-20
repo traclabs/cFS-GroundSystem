@@ -1,0 +1,9 @@
+Command Counter,		12,  1,  B,   Dec, NULL,        NULL,        NULL,       NULL
+Error Counter,			13,  1,  B,   Dec, NULL,        NULL,        NULL,       NULL  
+joint0,	                14,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint1,	                18,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint2,	                22,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint3,	                26,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint4,	                30,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint5,	                34,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
+joint6,	                38,  4,  f,   Dec, NULL,        NULL,        NULL,       NULL  
