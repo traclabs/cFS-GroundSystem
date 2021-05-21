@@ -18,7 +18,7 @@ TBL HK Tlm,                GenericTelemetry.py,     0x804,   cfe-tbl-hk-tlm.txt
 TIME HK Tlm,               GenericTelemetry.py,     0x805,   cfe-time-hk-tlm.txt
 TIME DIAG Tlm 1,           GenericTelemetry.py,     0x806,   cfe-time-diag-tlm1.txt
 TIME DIAG Tlm 2,           GenericTelemetry.py,     0x806,   cfe-time-diag-tlm2.txt
-ROBOT SIM HK Tlm,             GenericTelemetry.py,     0x816,   cfe-robot-sim-hk-tlm.txt
+ROBOT SIM HK Tlm,          GenericTelemetry.py,     0x816,   cfe-robot-sim-hk-tlm.txt
 SB STATs Tlm,              GenericTelemetry.py,     0x80A,   cfe-sb-stats-tlm.txt
 SB PipeDepthStats Tlm 1,   GenericTelemetry.py,     0x80A,   cfe-sb-pipedepthstats_1-tlm.txt
 SB PipeDepthStats Tlm 2,   GenericTelemetry.py,     0x80A,   cfe-sb-pipedepthstats_2-tlm.txt
